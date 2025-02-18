@@ -4,7 +4,7 @@ CS student from Poland
 ---
 
 ## 🚀 Currently learning:
-✨ Backend development
+✨ Backend development </br>
 ☕ Java, Spring Boot, PostgreSQL
 
 ## 📫 Contact:
